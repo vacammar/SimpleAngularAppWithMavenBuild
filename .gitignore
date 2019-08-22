@@ -1,0 +1,9 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+target/
+src/main/ui/node/
+src/main/ui/node_modules/
