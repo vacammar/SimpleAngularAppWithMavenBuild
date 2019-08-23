@@ -4,12 +4,13 @@ A simple Angular 7 application builded with eirslett/frontend-maven-plugin, in t
 
 ## Proxy Setting
 
-If we are behind a proxy, we can activate proxy configuration for do this is very easy all that you need is set attribute:
+If we are behind a proxy, we can activate proxy configuration for do this is very easy, all that you need is set attribute:
 ```
 <configuration>
     <npmInheritsProxyConfigFromMaven>true</npmInheritsProxyConfigFromMaven>
 </configuration>
 ```
+
 ## Build
 
 ```
